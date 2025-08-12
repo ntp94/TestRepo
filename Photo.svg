@@ -1,1 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" onload="alert('SVG XSS!')"></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="80">
+  <text x="10" y="20">External image test</text>
+  <image href="https://example.com/pixel.png" x="10" y="30" width="50" height="50"/>
+</svg>
