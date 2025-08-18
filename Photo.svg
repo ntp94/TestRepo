@@ -1,5 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="200" height="80">
-  <text x="10" y="20">External image test</text>
+  <text x="10" y="20"><strong>External image test<strong></text>
   <image href="https://nolanpeters.org/Nolan.jpg" x="10" y="30" width="50" height="50"/>
 </svg>
+
 
