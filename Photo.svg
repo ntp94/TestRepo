@@ -7,8 +7,9 @@
     ]]>
   </script>
   <text x="10" y="20">External image test</text>
-  <image href="https://nolanpeters.org/Nolan.jpg" x="10" y="30" width="50" height="50" onerror="imageError()" />
+  <image href="https://nolanpeters.org/Nolan.jpgg" x="10" y="30" width="50" height="50" onerror="imageError()" />
 </svg>
+
 
 
 
